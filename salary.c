@@ -17,7 +17,6 @@ int main(void){
 
     //gross salary = base salary + allowences
     gross_salary = base_salary + da + ta + hra;
-
     //net salary = gross - deduction
     net_salary = gross_salary - pf - lic;
 
