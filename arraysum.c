@@ -8,7 +8,7 @@ int main(void){
     for (i=0; i<5; i++) {
         scanf("%d", &arr1[i]);
     }
-    printf("Enter values of the array 1\n");
+    printf("Enter values of the array 2\n");
     for (i=0; i<5; i++) {
         scanf("%d", &arr2[i]);
     }
